@@ -34,5 +34,5 @@ This repository contains a **Convolutional Neural Network (CNN) model** implemen
 - **Test Accuracy**: Achieved ~98% accuracy on MNIST.
 - **Confusion Matrix**: Displays correct vs. misclassified digits.
 #### - Observations:
-      - Common misclassifications occur between 4 and 9.
-      - Batch Normalization improves convergence speed.
+- Common misclassifications occur between 4 and 9.
+- Batch Normalization improves convergence speed.
